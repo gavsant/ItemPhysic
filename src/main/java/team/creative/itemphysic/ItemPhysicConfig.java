@@ -55,7 +55,7 @@ public class ItemPhysicConfig {
 	public static class Pickup {
 		
 		@CreativeConfig
-		public boolean customPickup = false;
+		public boolean customPickup = true;
 		@CreativeConfig
 		public boolean pickupWhenSneaking = true;
 		@CreativeConfig
